@@ -1,1 +1,1 @@
-Test text (say it 10 times fast)
+Test text (say it 10 times fastly)
